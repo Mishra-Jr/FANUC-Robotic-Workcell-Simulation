@@ -35,4 +35,4 @@ This project involved the complete simulation of three distinct robotic workcell
 ### 📄 View Full Report
 For a detailed breakdown of the workcell designs, robot justifications, and task logic, please see the full project report:
 
-* [**View the Full Project Report (PDF)**](./Aniket%20Mishra%20MFG598%20Final%20Project%20(1).pdf)
+* [**View the Full Project Report (PDF)**](./Aniket-Mishra-MFG598-Final-Project.pdf)
